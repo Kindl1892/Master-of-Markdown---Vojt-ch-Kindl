@@ -38,7 +38,7 @@ Fotbal hrají proti sobě dva týmy. Každý tým má na hřišti 11 hráčů.
 
 ## 4. Fotbalový stadion
 
-![Fotbalový stadion](images/fotbal.jpg)
+![Fotbalový stadion](FotbalovýStadion.jpg)
 
 *Obrázek 1: Fotbalový stadion během zápasu.*
 
