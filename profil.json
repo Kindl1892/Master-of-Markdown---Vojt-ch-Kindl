@@ -1,1 +1,18 @@
 
+{
+  "jmeno": "Arthas",
+  "vek": 25,
+  "je_plnolety": true,
+  "poznamka": null,
+  "vybava": {
+    "zbran": "Dlouhy mec",
+    "brneni": "Ocelove brneni",
+    "uroven": 50
+  },
+  "dovednosti": [
+    "Boj s mecem",
+    "Leceni",
+    "Charizma"
+  ]
+}
+
